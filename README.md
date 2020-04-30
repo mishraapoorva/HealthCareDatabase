@@ -5,5 +5,8 @@ There are two different roles. Both the roles have different screen after login 
 1) Admin will be able to monitor all information about the doctor, patient and appointments. 
 2) Doctor will be able to view and manage patient appointment history, cancel or book any appointment in the availabe slots which are modified by a trigger after each insert in the table.
 
+The ERD of the project is as follows:
+![](https://github.com/mishraapoorva/HealthCareDatabase/blob/master/HealthCareDatabase-%20Final%20ERD.jpeg)
+
 
 
